@@ -116,6 +116,10 @@ namespace noise {
         }
 
 
+        let dx_ext = 0
+        let dy_ext = 0
+        let xsv_ext = 0
+        let ysv_ext = 0
         //# Place input coordinates onto grid.
         let stretch_offset = (x + y) * STRETCH_CONSTANT_2D
         let xs = x + stretch_offset
