@@ -1,1 +1,1 @@
-2d noise now works, still working on 3d and 4d.
+2d and 3d noise now works, still working on 4d.

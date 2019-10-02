@@ -100,7 +100,7 @@ namespace noise {
     }
     let seed_ = 0
     //% block="set seed $seed"
-    export function seed(seed: number): void {
+    export function set_seed(seed: number): void {
         seed_ = seed
     }
 
